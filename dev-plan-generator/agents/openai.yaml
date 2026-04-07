@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Plan Generator"
+  short_description: "Create scoped phased dev plan docs"
+  default_prompt: "Use $dev-plan-generator to create or update a phased implement plan markdown for this task."

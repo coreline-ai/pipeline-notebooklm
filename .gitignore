@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.venv/
+.pytest_cache/
+output/
+*.png
+*.m4a
+*.mp4
+.env
+uv.lock
